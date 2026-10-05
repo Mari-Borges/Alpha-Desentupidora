@@ -473,3 +473,6 @@ section{ padding: 76px 0; }
   .footer-cols{ grid-template-columns: 1fr 1fr; }
   .hero-stats-row{ grid-template-columns: repeat(2, 1fr); }
 }
+.dese{
+  padding: 0;
+}
